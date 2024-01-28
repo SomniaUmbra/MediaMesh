@@ -1,0 +1,21 @@
+1. Project Setup (MediaMesh)
+    [] Install Django and create the project
+    [] Create the base Django application
+
+2. API Integration
+    [-] Research the API documentation
+        [] Twitter:
+            Learn how to authenticate and use the Twitter API and tweepy
+
+3. User Interface
+    [] Design the core layout of the application
+
+4. Functionality
+    [] Ability to perform CRUD operations on posts
+    [] Ability to like and comment on posts
+
+5. Caching
+    [] Install and configure Redis for caching
+    [] Implement caching for posts
+
+6. Testing
